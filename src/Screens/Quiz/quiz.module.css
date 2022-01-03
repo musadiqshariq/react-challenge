@@ -1,0 +1,9 @@
+.main{
+    width: 70%;
+    margin: 0px auto;
+}
+.topBar{
+    width: 100%;
+    background-color: black;
+    height: 30px;
+}
